@@ -1,0 +1,10 @@
+.body {
+    background-color: rgb(221, 166, 13) !important;
+}
+.card:hover{
+    box-shadow: 5px 5px 20px rgba(0,0,0,0.4);
+    transform: translateY(-3%);
+}
+.navbar-brand{
+    background-color: rgb(21, 119, 119);
+}
